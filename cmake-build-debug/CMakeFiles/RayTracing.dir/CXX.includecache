@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/michaelkowal/Documents/C/RayTracing/src/main.cpp
+iostream
+-
+vec3.h
+/Users/michaelkowal/Documents/C/RayTracing/src/vec3.h
+
+/Users/michaelkowal/Documents/C/RayTracing/src/vec3.cpp
+vec3.h
+/Users/michaelkowal/Documents/C/RayTracing/src/vec3.h
+
+/Users/michaelkowal/Documents/C/RayTracing/src/vec3.h
+math.h
+-
+stdlib.h
+-
+iostream
+-
+
