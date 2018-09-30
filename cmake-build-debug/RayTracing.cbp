@@ -80,6 +80,15 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/hitable.cpp">
+			<Option target="RayTracing"/>
+		</Unit>
+		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/hitable.h">
+			<Option target="RayTracing"/>
+		</Unit>
+		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/hitable_list.h">
+			<Option target="RayTracing"/>
+		</Unit>
 		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/main.cpp">
 			<Option target="RayTracing"/>
 		</Unit>
@@ -87,6 +96,12 @@
 			<Option target="RayTracing"/>
 		</Unit>
 		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/ray.h">
+			<Option target="RayTracing"/>
+		</Unit>
+		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/sphere.cpp">
+			<Option target="RayTracing"/>
+		</Unit>
+		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/sphere.h">
 			<Option target="RayTracing"/>
 		</Unit>
 		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/vec3.cpp">

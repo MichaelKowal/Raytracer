@@ -123,6 +123,33 @@ RayTracing/fast:
 	$(MAKE) -f CMakeFiles/RayTracing.dir/build.make CMakeFiles/RayTracing.dir/build
 .PHONY : RayTracing/fast
 
+src/hitable.o: src/hitable.cpp.o
+
+.PHONY : src/hitable.o
+
+# target to build an object file
+src/hitable.cpp.o:
+	$(MAKE) -f CMakeFiles/RayTracing.dir/build.make CMakeFiles/RayTracing.dir/src/hitable.cpp.o
+.PHONY : src/hitable.cpp.o
+
+src/hitable.i: src/hitable.cpp.i
+
+.PHONY : src/hitable.i
+
+# target to preprocess a source file
+src/hitable.cpp.i:
+	$(MAKE) -f CMakeFiles/RayTracing.dir/build.make CMakeFiles/RayTracing.dir/src/hitable.cpp.i
+.PHONY : src/hitable.cpp.i
+
+src/hitable.s: src/hitable.cpp.s
+
+.PHONY : src/hitable.s
+
+# target to generate assembly for a file
+src/hitable.cpp.s:
+	$(MAKE) -f CMakeFiles/RayTracing.dir/build.make CMakeFiles/RayTracing.dir/src/hitable.cpp.s
+.PHONY : src/hitable.cpp.s
+
 src/main.o: src/main.cpp.o
 
 .PHONY : src/main.o
@@ -177,6 +204,33 @@ src/ray.cpp.s:
 	$(MAKE) -f CMakeFiles/RayTracing.dir/build.make CMakeFiles/RayTracing.dir/src/ray.cpp.s
 .PHONY : src/ray.cpp.s
 
+src/sphere.o: src/sphere.cpp.o
+
+.PHONY : src/sphere.o
+
+# target to build an object file
+src/sphere.cpp.o:
+	$(MAKE) -f CMakeFiles/RayTracing.dir/build.make CMakeFiles/RayTracing.dir/src/sphere.cpp.o
+.PHONY : src/sphere.cpp.o
+
+src/sphere.i: src/sphere.cpp.i
+
+.PHONY : src/sphere.i
+
+# target to preprocess a source file
+src/sphere.cpp.i:
+	$(MAKE) -f CMakeFiles/RayTracing.dir/build.make CMakeFiles/RayTracing.dir/src/sphere.cpp.i
+.PHONY : src/sphere.cpp.i
+
+src/sphere.s: src/sphere.cpp.s
+
+.PHONY : src/sphere.s
+
+# target to generate assembly for a file
+src/sphere.cpp.s:
+	$(MAKE) -f CMakeFiles/RayTracing.dir/build.make CMakeFiles/RayTracing.dir/src/sphere.cpp.s
+.PHONY : src/sphere.cpp.s
+
 src/vec3.o: src/vec3.cpp.o
 
 .PHONY : src/vec3.o
@@ -213,12 +267,18 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... RayTracing"
+	@echo "... src/hitable.o"
+	@echo "... src/hitable.i"
+	@echo "... src/hitable.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
 	@echo "... src/ray.o"
 	@echo "... src/ray.i"
 	@echo "... src/ray.s"
+	@echo "... src/sphere.o"
+	@echo "... src/sphere.i"
+	@echo "... src/sphere.s"
 	@echo "... src/vec3.o"
 	@echo "... src/vec3.i"
 	@echo "... src/vec3.s"

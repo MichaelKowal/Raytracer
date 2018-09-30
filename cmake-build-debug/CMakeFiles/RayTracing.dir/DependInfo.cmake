@@ -4,8 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/michaelkowal/Documents/C/RayTracing/src/hitable.cpp" "/Users/michaelkowal/Documents/C/RayTracing/cmake-build-debug/CMakeFiles/RayTracing.dir/src/hitable.cpp.o"
   "/Users/michaelkowal/Documents/C/RayTracing/src/main.cpp" "/Users/michaelkowal/Documents/C/RayTracing/cmake-build-debug/CMakeFiles/RayTracing.dir/src/main.cpp.o"
   "/Users/michaelkowal/Documents/C/RayTracing/src/ray.cpp" "/Users/michaelkowal/Documents/C/RayTracing/cmake-build-debug/CMakeFiles/RayTracing.dir/src/ray.cpp.o"
+  "/Users/michaelkowal/Documents/C/RayTracing/src/sphere.cpp" "/Users/michaelkowal/Documents/C/RayTracing/cmake-build-debug/CMakeFiles/RayTracing.dir/src/sphere.cpp.o"
   "/Users/michaelkowal/Documents/C/RayTracing/src/vec3.cpp" "/Users/michaelkowal/Documents/C/RayTracing/cmake-build-debug/CMakeFiles/RayTracing.dir/src/vec3.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
