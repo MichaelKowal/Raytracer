@@ -89,16 +89,10 @@
 		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/hitable_list.h">
 			<Option target="RayTracing"/>
 		</Unit>
-		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/lambertian.h">
-			<Option target="RayTracing"/>
-		</Unit>
 		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/main.cpp">
 			<Option target="RayTracing"/>
 		</Unit>
 		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/material.h">
-			<Option target="RayTracing"/>
-		</Unit>
-		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/metal.h">
 			<Option target="RayTracing"/>
 		</Unit>
 		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/ray.h">

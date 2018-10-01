@@ -21,6 +21,8 @@ hitable.h
 /Users/michaelkowal/Documents/C/RayTracing/src/main.cpp
 iostream
 -
+fstream
+-
 random
 -
 sphere.h
@@ -31,6 +33,14 @@ float.h
 /Users/michaelkowal/Documents/C/RayTracing/src/float.h
 camera.h
 /Users/michaelkowal/Documents/C/RayTracing/src/camera.h
+material.h
+/Users/michaelkowal/Documents/C/RayTracing/src/material.h
+
+/Users/michaelkowal/Documents/C/RayTracing/src/material.h
+ray.h
+/Users/michaelkowal/Documents/C/RayTracing/src/ray.h
+hitable.h
+/Users/michaelkowal/Documents/C/RayTracing/src/hitable.h
 
 /Users/michaelkowal/Documents/C/RayTracing/src/ray.h
 vec3.h

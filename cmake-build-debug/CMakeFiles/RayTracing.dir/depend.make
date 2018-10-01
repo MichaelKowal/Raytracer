@@ -5,6 +5,7 @@ CMakeFiles/RayTracing.dir/src/main.cpp.o: ../src/camera.h
 CMakeFiles/RayTracing.dir/src/main.cpp.o: ../src/hitable.h
 CMakeFiles/RayTracing.dir/src/main.cpp.o: ../src/hitable_list.h
 CMakeFiles/RayTracing.dir/src/main.cpp.o: ../src/main.cpp
+CMakeFiles/RayTracing.dir/src/main.cpp.o: ../src/material.h
 CMakeFiles/RayTracing.dir/src/main.cpp.o: ../src/ray.h
 CMakeFiles/RayTracing.dir/src/main.cpp.o: ../src/sphere.h
 CMakeFiles/RayTracing.dir/src/main.cpp.o: ../src/vec3.h

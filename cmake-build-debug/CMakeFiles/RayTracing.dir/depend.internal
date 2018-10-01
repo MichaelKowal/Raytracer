@@ -6,6 +6,7 @@ CMakeFiles/RayTracing.dir/src/main.cpp.o
  /Users/michaelkowal/Documents/C/RayTracing/src/hitable.h
  /Users/michaelkowal/Documents/C/RayTracing/src/hitable_list.h
  /Users/michaelkowal/Documents/C/RayTracing/src/main.cpp
+ /Users/michaelkowal/Documents/C/RayTracing/src/material.h
  /Users/michaelkowal/Documents/C/RayTracing/src/ray.h
  /Users/michaelkowal/Documents/C/RayTracing/src/sphere.h
  /Users/michaelkowal/Documents/C/RayTracing/src/vec3.h
