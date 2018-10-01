@@ -6,15 +6,39 @@
 
 #IncludeRegexTransform: 
 
+/Users/michaelkowal/Documents/C/RayTracing/src/camera.h
+ray.h
+/Users/michaelkowal/Documents/C/RayTracing/src/ray.h
+
+/Users/michaelkowal/Documents/C/RayTracing/src/hitable.h
+ray.h
+/Users/michaelkowal/Documents/C/RayTracing/src/ray.h
+
+/Users/michaelkowal/Documents/C/RayTracing/src/hitable_list.h
+hitable.h
+/Users/michaelkowal/Documents/C/RayTracing/src/hitable.h
+
 /Users/michaelkowal/Documents/C/RayTracing/src/main.cpp
 iostream
 -
-ray.h
-/Users/michaelkowal/Documents/C/RayTracing/src/ray.h
+random
+-
+sphere.h
+/Users/michaelkowal/Documents/C/RayTracing/src/sphere.h
+hitable_list.h
+/Users/michaelkowal/Documents/C/RayTracing/src/hitable_list.h
+float.h
+/Users/michaelkowal/Documents/C/RayTracing/src/float.h
+camera.h
+/Users/michaelkowal/Documents/C/RayTracing/src/camera.h
 
 /Users/michaelkowal/Documents/C/RayTracing/src/ray.h
 vec3.h
 /Users/michaelkowal/Documents/C/RayTracing/src/vec3.h
+
+/Users/michaelkowal/Documents/C/RayTracing/src/sphere.h
+hitable.h
+/Users/michaelkowal/Documents/C/RayTracing/src/hitable.h
 
 /Users/michaelkowal/Documents/C/RayTracing/src/vec3.h
 math.h

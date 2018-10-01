@@ -70,77 +70,17 @@ CMakeFiles/RayTracing.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/src/main.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michaelkowal/Documents/C/RayTracing/src/main.cpp -o CMakeFiles/RayTracing.dir/src/main.cpp.s
 
-CMakeFiles/RayTracing.dir/src/vec3.cpp.o: CMakeFiles/RayTracing.dir/flags.make
-CMakeFiles/RayTracing.dir/src/vec3.cpp.o: ../src/vec3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michaelkowal/Documents/C/RayTracing/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/RayTracing.dir/src/vec3.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/RayTracing.dir/src/vec3.cpp.o -c /Users/michaelkowal/Documents/C/RayTracing/src/vec3.cpp
-
-CMakeFiles/RayTracing.dir/src/vec3.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/src/vec3.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/michaelkowal/Documents/C/RayTracing/src/vec3.cpp > CMakeFiles/RayTracing.dir/src/vec3.cpp.i
-
-CMakeFiles/RayTracing.dir/src/vec3.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/src/vec3.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michaelkowal/Documents/C/RayTracing/src/vec3.cpp -o CMakeFiles/RayTracing.dir/src/vec3.cpp.s
-
-CMakeFiles/RayTracing.dir/src/ray.cpp.o: CMakeFiles/RayTracing.dir/flags.make
-CMakeFiles/RayTracing.dir/src/ray.cpp.o: ../src/ray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michaelkowal/Documents/C/RayTracing/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/RayTracing.dir/src/ray.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/RayTracing.dir/src/ray.cpp.o -c /Users/michaelkowal/Documents/C/RayTracing/src/ray.cpp
-
-CMakeFiles/RayTracing.dir/src/ray.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/src/ray.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/michaelkowal/Documents/C/RayTracing/src/ray.cpp > CMakeFiles/RayTracing.dir/src/ray.cpp.i
-
-CMakeFiles/RayTracing.dir/src/ray.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/src/ray.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michaelkowal/Documents/C/RayTracing/src/ray.cpp -o CMakeFiles/RayTracing.dir/src/ray.cpp.s
-
-CMakeFiles/RayTracing.dir/src/hitable.cpp.o: CMakeFiles/RayTracing.dir/flags.make
-CMakeFiles/RayTracing.dir/src/hitable.cpp.o: ../src/hitable.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michaelkowal/Documents/C/RayTracing/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/RayTracing.dir/src/hitable.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/RayTracing.dir/src/hitable.cpp.o -c /Users/michaelkowal/Documents/C/RayTracing/src/hitable.cpp
-
-CMakeFiles/RayTracing.dir/src/hitable.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/src/hitable.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/michaelkowal/Documents/C/RayTracing/src/hitable.cpp > CMakeFiles/RayTracing.dir/src/hitable.cpp.i
-
-CMakeFiles/RayTracing.dir/src/hitable.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/src/hitable.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michaelkowal/Documents/C/RayTracing/src/hitable.cpp -o CMakeFiles/RayTracing.dir/src/hitable.cpp.s
-
-CMakeFiles/RayTracing.dir/src/sphere.cpp.o: CMakeFiles/RayTracing.dir/flags.make
-CMakeFiles/RayTracing.dir/src/sphere.cpp.o: ../src/sphere.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michaelkowal/Documents/C/RayTracing/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/RayTracing.dir/src/sphere.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/RayTracing.dir/src/sphere.cpp.o -c /Users/michaelkowal/Documents/C/RayTracing/src/sphere.cpp
-
-CMakeFiles/RayTracing.dir/src/sphere.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/src/sphere.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/michaelkowal/Documents/C/RayTracing/src/sphere.cpp > CMakeFiles/RayTracing.dir/src/sphere.cpp.i
-
-CMakeFiles/RayTracing.dir/src/sphere.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/src/sphere.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michaelkowal/Documents/C/RayTracing/src/sphere.cpp -o CMakeFiles/RayTracing.dir/src/sphere.cpp.s
-
 # Object files for target RayTracing
 RayTracing_OBJECTS = \
-"CMakeFiles/RayTracing.dir/src/main.cpp.o" \
-"CMakeFiles/RayTracing.dir/src/vec3.cpp.o" \
-"CMakeFiles/RayTracing.dir/src/ray.cpp.o" \
-"CMakeFiles/RayTracing.dir/src/hitable.cpp.o" \
-"CMakeFiles/RayTracing.dir/src/sphere.cpp.o"
+"CMakeFiles/RayTracing.dir/src/main.cpp.o"
 
 # External object files for target RayTracing
 RayTracing_EXTERNAL_OBJECTS =
 
 RayTracing: CMakeFiles/RayTracing.dir/src/main.cpp.o
-RayTracing: CMakeFiles/RayTracing.dir/src/vec3.cpp.o
-RayTracing: CMakeFiles/RayTracing.dir/src/ray.cpp.o
-RayTracing: CMakeFiles/RayTracing.dir/src/hitable.cpp.o
-RayTracing: CMakeFiles/RayTracing.dir/src/sphere.cpp.o
 RayTracing: CMakeFiles/RayTracing.dir/build.make
 RayTracing: CMakeFiles/RayTracing.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/michaelkowal/Documents/C/RayTracing/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable RayTracing"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/michaelkowal/Documents/C/RayTracing/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable RayTracing"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/RayTracing.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

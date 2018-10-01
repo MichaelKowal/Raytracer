@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/hitable.cpp">
+		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/camera.h">
 			<Option target="RayTracing"/>
 		</Unit>
 		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/hitable.h">
@@ -89,22 +89,22 @@
 		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/hitable_list.h">
 			<Option target="RayTracing"/>
 		</Unit>
+		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/lambertian.h">
+			<Option target="RayTracing"/>
+		</Unit>
 		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/main.cpp">
 			<Option target="RayTracing"/>
 		</Unit>
-		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/ray.cpp">
+		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/material.h">
+			<Option target="RayTracing"/>
+		</Unit>
+		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/metal.h">
 			<Option target="RayTracing"/>
 		</Unit>
 		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/ray.h">
 			<Option target="RayTracing"/>
 		</Unit>
-		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/sphere.cpp">
-			<Option target="RayTracing"/>
-		</Unit>
 		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/sphere.h">
-			<Option target="RayTracing"/>
-		</Unit>
-		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/vec3.cpp">
 			<Option target="RayTracing"/>
 		</Unit>
 		<Unit filename="/Users/michaelkowal/Documents/C/RayTracing/src/vec3.h">
