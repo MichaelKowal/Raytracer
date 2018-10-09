@@ -1,4 +1,4 @@
-#Raytracer
+**Raytracer**
 
 This is a quick project that I tackled to try and learn more about c++ and vector graphics.  The majority of it was done by following a guide [here](https://www.amazon.ca/Ray-Tracing-Weekend-Minibooks-Book-ebook/dp/B01B5AODD8).
 
